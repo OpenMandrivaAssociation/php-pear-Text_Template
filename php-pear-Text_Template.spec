@@ -72,3 +72,17 @@ fi
 %{_datadir}/pear/Text/*.php
 %{_datadir}/pear/packages/Text_Template.xml
 
+
+
+%changelog
+* Fri Dec 16 2011 Oden Eriksson <oeriksson@mandriva.com> 1.1.1-2mdv2012.0
++ Revision: 742292
+- fix major breakage by careless packager
+
+* Wed Nov 16 2011 Oden Eriksson <oeriksson@mandriva.com> 1.1.1-1
++ Revision: 730907
+- import php-pear-Text_Template
+
+
+* Wed Nov 16 2011 Oden Eriksson <oeriksson@mandriva.com> 1.1.1-1mdv2010.2
+- initial Mandriva package
