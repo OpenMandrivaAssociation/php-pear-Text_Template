@@ -3,7 +3,7 @@
 Summary:	Simple template engine for PHPUnit
 Name:		php-pear-%{upstream_name}
 Version:	1.1.1
-Release:	3
+Release:	4
 License:	BSD
 Group:		Development/PHP
 URL:		http://www.phpunit.de/
